@@ -1,0 +1,8 @@
+*.pdf
+*.txt
+*.xlsx
+*.RData
+*.csv
+
+PaperPlots/
+
